@@ -1,4 +1,4 @@
-# cloud-isk
+# cloud-disk
 
 # 创建API服务
 goctl api new core
